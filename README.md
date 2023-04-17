@@ -8,7 +8,7 @@ Necessary steps.
 
 1. Install this free and open source app from vincelwt so you have GTP Chat on your menu bar. https://github.com/vincelwt/chatgpt-mac
 
-2. Create free account within the app
+2. Create account or Log in within the app
 
 3. Install workflow
 
